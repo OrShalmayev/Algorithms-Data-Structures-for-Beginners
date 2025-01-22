@@ -1,6 +1,8 @@
 Let’s break down how arrays are stored in **RAM** (Random Access Memory) with **real-world analogies**, visual diagrams, and practical examples. This will help you grasp why arrays are efficient and how their memory layout impacts performance.
 
 ---
+Demo: https://subtle-elf-bcb52e.netlify.app/
+
 
 ### **1. RAM Basics: The "Bookshelf" Analogy**
 Imagine RAM as a **giant bookshelf** with millions of slots (addresses), each holding a **byte** (8 bits).  
