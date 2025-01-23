@@ -1,3 +1,5 @@
+demo: https://gorgeous-crumble-95157a.netlify.app/
+
 **Mastering Dynamic Arrays: A Cognitive Science Approach**  
 *(Using research-backed learning techniques for deep understanding)*  
 
