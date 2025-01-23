@@ -1,3 +1,4 @@
+interactive demo: https://magenta-souffle-b142e9.netlify.app/
 **Mastering Stacks: A Cognitive Science-Backed Guide**  
 *(Using research-backed learning techniques for deep understanding)*  
 
